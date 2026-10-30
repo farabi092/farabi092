@@ -44,31 +44,17 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker,vscode,linux,bash" alt="Databases and Development Tools"/>
 </p>
 
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Version Control:** Git, GitHub
-- **Development & Environment:** Linux, Bash, Visual Studio Code, Docker
-- **API Development:** REST APIs
-
 ### 🧠 AI/ML & Research
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" alt="AI and Machine Learning"/>
 </p>
 
-- Machine Learning and Neural Networks
-- Data Analysis and Visualization
-- Federated Learning and Privacy-Preserving Machine Learning
-- Model Evaluation and Experimentation
-
 ### 🎨 Graphic Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator" alt="Graphic Design Tools"/>
 </p>
-
-- Adobe Photoshop
-- Adobe Illustrator
-- Visual Design and Digital Graphics
 
 ---
 
